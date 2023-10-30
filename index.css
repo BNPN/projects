@@ -1,0 +1,25 @@
+.cont{
+    padding: 20px;
+    background-color: black;
+    height:100vh;
+    background-size: cover;
+    color:azure;
+}
+.cont1{
+    border-color: aqua;
+    background-color: darkslategray;
+    padding:100px;
+    border-radius: 40px;
+}
+.p-2{
+    padding-left: 30px;
+}
+.pl-2{
+    border-radius:8px;
+}
+.btnlgn{
+    background-color: rgb(204, 255, 181);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
